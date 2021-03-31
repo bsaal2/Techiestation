@@ -28,9 +28,19 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.css"
+              "src/assets/css/bootstrap.css",
+              "src/assets/css/font-awesome.min.css",
+              "src/styles.css",
+              "src/assets/css/responsive.css",
+              "src/assets/css/colors.css",
+              "src/assets/css/version/tech.css"
             ],
-            "scripts": []
+            "scripts": [
+              "src/assets/js/jquery.min.js",
+              "src/assets/js/tether.min.js",
+              "src/assets/js/bootstrap.min.js",
+              "src/assets/js/custom.js"
+            ]
           },
           "configurations": {
             "production": {
