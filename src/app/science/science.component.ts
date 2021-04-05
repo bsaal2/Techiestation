@@ -6,6 +6,7 @@ import { Component, OnInit } from '@angular/core';
   styleUrls: ['./science.component.css']
 })
 export class ScienceComponent implements OnInit {
+  title = 'Science';
 
   constructor() { }
 

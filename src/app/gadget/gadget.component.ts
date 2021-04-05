@@ -6,6 +6,7 @@ import { Component, OnInit } from '@angular/core';
   styleUrls: ['./gadget.component.css']
 })
 export class GadgetComponent implements OnInit {
+  title = 'Gadgets / Smartphones';
 
   constructor() { }
 
